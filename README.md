@@ -1,2 +1,5 @@
 # A Torrra homebrew package
-You can use it by doing `brew tap Maniacsan/homebrew-torrra`
+## Install
+```brew tap Maniacsan/homebrew-torrra```
+## Why a binary?
+I personally have problems with using python with homebrew and since there is a binary option for torrra I choose to go with that.
