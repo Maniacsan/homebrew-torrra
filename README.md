@@ -1,4 +1,4 @@
-# A Torrra homebrew package
+# homebrew-torrra
 ## Install
 ```brew tap Maniacsan/homebrew-torrra```
 ## Why a binary?
